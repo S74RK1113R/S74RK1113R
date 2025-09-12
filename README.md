@@ -12,6 +12,9 @@
   <li>
     😎 Interests: Web development, programming, learning new technologies, exploring art and culture.
   </li>
+  <li>
+    👨‍💻 Dev name: S74RK1113R (is my favorite user for all things)
+  </li>
 </ul>
 
 <h2>🧭 What I Do</h2>
@@ -41,6 +44,17 @@
 </ul>
 
 <h3>🤝Contact me</h3>
-<a href="mailto:tu_email@example.com?subject=Hola&body=Querido%20S74RK1113R" title="Enviar correo target='_blank' ">
-  Gmail
-</a>
+<ul>
+  <li>
+    <a href='https://mail.google.com/mail/u/0/#trash?compose=DmwnWrRnXmtxtJDHMMNPFHRrTtxnwlsFjBpsgrbvnJwwvhzxVFGrMnngXMvbbLDHLWZcJSzSBVnq' target='_blank' >
+      Gmail
+    </a>
+  </li>
+  
+<li>
+  <a href='https://www.instagram.com/s74rk1113r/'>
+    Instagram
+  </a>
+</li>
+  
+</ul>
