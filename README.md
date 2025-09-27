@@ -44,17 +44,18 @@
 </ul>
 
 <h3>🤝Contact me</h3>
-<ul>
-  <li>
-    <a href='mailto:randyes16@gmail.com?subject=Work&amp;body=Dear%20Randy.'>
-      Gmail
-    </a>
-  </li>
+<div>
   
-<li>
-  <a href='https://www.instagram.com/s74rk1113r/'>
-    Instagram
+  <a href='mailto:randyes16@gmail.com?subject=Work&amp;body=Dear%20Randy.' target="_blank">
+    <img src='https://skills.syvixor.com/api/icons?perline=15&i=gmail'/>  
   </a>
-</li>
   
-</ul>
+  <a href='https://www.instagram.com/s74rk1113r/' target="_blank">
+    <img src='https://skills.syvixor.com/api/icons?perline=15&i=instagram'/>
+  </a>
+  
+  <a href='https://wa.me/+5358986663?text=Hello%20I%20need%20your%20help!' target="_blank">
+    <img src='https://skills.syvixor.com/api/icons?perline=15&i=whatsapp'/>
+  </a>
+
+</div>
