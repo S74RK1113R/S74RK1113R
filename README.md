@@ -57,5 +57,4 @@
   <a href='https://wa.me/+5358986663?text=Hello%20I%20need%20your%20help!' target="_blank">
     <img src='https://skills.syvixor.com/api/icons?perline=15&i=whatsapp'/>
   </a>
-
 </div>
