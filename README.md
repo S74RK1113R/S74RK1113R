@@ -46,7 +46,7 @@
 <h3>🤝Contact me</h3>
 <ul>
   <li>
-    <a href='https://mail.google.com/mail/u/0/#trash?compose=DmwnWrRnXmtxtJDHMMNPFHRrTtxnwlsFjBpsgrbvnJwwvhzxVFGrMnngXMvbbLDHLWZcJSzSBVnq' target='_blank' >
+    <a href='mailto:randyes16@gmail.com?subject=Work&amp;body=Dear%20Randy.'>
       Gmail
     </a>
   </li>
