@@ -2,33 +2,26 @@
   
 <h2>🔎 About Me </h2> 
 
-<ul>
-  <li>
-    👨‍💻 Role: Frontend Developer / Aspiring Backend/Full-Stack Developer.
-  </li>
-  <li>
-    🖋 Design: Graphic design (sometimes).
-  </li>
-  <li>
-    😎 Interests: Web development, programming, learning new technologies, exploring art and culture.
-  </li>
-  <li>
-    👨‍💻 Dev name: S74RK1113R (is my favorite user for all things)
-  </li>
-</ul>
+* 🖥️ See my portfolio at [Vercel](https://starkiller-portfolio.vercel.app/)
+* 👨‍💻 Role: Frontend Developer / Aspiring Backend/Full-Stack Developer.
+* 🖋 Design: Graphic design (sometimes).
+* 😎 Interests: Web development, programming, learning new technologies, exploring art and culture.
+* 👨‍💻 Dev name: S74RK1113R (is my favorite user for all things)
+
+
 
 <h2>🧭 What I Do</h2>
-<ul>
-  <li> 🤖 Build modern, responsive user interfaces using React and Tailwind CSS and other tools. </li>
-  <li> 💹 Write clean, maintainable JavaScript and modular components. </li>
-  <li> ✅ Version control with Git and collaborate on GitHub. </li>
-  <li> 🌟 Create visually appealing designs and prototypes (when needed). </li>
-</ul>
+
+* 🤖 Build modern, responsive user interfaces using React and Tailwind CSS and other tools. 
+* 💹 Write clean, maintainable JavaScript and modular components. 
+* ✅ Version control with Git and collaborate on GitHub. 
+* 🌟 Create visually appealing designs and prototypes (when needed). 
+
 
 <h2 align='center'>🧰 Technologies and tools </h2>
 
 <div align='center'>
-  <img src='https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,javascript,html,css3,git,github,visualstudiocode,vercel'/>
+  <img src='https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,javascript,html,css3,git,github,visualstudiocode,vercel,adobeillustrator'/>
 </div>
 
  <h2  align='center'>🎯 Technologies I want to learn </h2>
@@ -42,6 +35,14 @@
     Become proficient in building complete web applications from UI to backend APIs.
   </p>
 </ul>
+  
+
+
+<h2>My GitHub Stats</h2> 
+
+<a href="http://www.github.com/S74RK1113R"><img src="https://github-readme-stats.vercel.app/api?username=S74RK1113R&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="S74RK1113R's GitHub stats" /></a>
+
+<a href="https://github.com/S74RK1113R" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S74RK1113R&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h3>🤝Contact me</h3>
 <div>
